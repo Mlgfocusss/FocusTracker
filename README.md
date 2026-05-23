@@ -34,8 +34,11 @@ Build and run
 🛠️ Technologies
 
 Qt/QML — UI framework
+
 C++ — Core logic
+
 CMake — Build system
+
 MSVC — Compiler
 
 👨‍💻 Author
