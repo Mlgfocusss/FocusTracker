@@ -1,4 +1,5 @@
 FocusTracker
+
 A desktop application for habit tracking and task management.
 Приложение для отслеживания привычек и задач.
 
