@@ -38,7 +38,5 @@ C++ — Core logic
 CMake — Build system
 MSVC — Compiler
 
-📝 License
-See LICENSE file for details.
 👨‍💻 Author
 Mlgfocusss
